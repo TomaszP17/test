@@ -1,1 +1,4 @@
 to jest wlasnie moj pierwszy tekst
+druga linia
+trzecia linia
+
